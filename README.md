@@ -38,7 +38,15 @@ How to install Xlsxwriter:
 - Press 1 to start the core function of the program, that is entering your logs into an excel sheet.
 - Once you press 1, the program will ask you to enter todays date in the form "dd-mm-yyyy.xlsx".
 - Once you enter it, it will ask you for the date once again, this is for creating a sheet for your logs.
-- Now it will ask for the amount of time spent on intrusive thoughts in 3 phases: 6am-12pm, 12pm-6pm, 6pm-12am.
+- Now it will ask for the amount of time spent on intrusive thoughts in 3 phases: 6am-12pm, 12pm-6pm, 6pm-12am and gives you the total time spent.
+
+![image](https://user-images.githubusercontent.com/88923986/158051309-bd782af5-3af8-45e5-bf2e-1ffc488f02fd.png)
+
+- The information that you typed in is entered into an excel sheet.
+- If you open the excel sheet, you'll find something like this:
+
+![image](https://user-images.githubusercontent.com/88923986/158051371-5ec4cd50-241c-4cca-a984-c1b2906521c2.png)
+
 
 
 
