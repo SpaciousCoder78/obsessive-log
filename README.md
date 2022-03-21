@@ -47,6 +47,22 @@ How to install Xlsxwriter:
 
 ![image](https://user-images.githubusercontent.com/88923986/158051371-5ec4cd50-241c-4cca-a984-c1b2906521c2.png)
 
+- The program will now ask you to enter details about your activity schedule
+
+![image](https://user-images.githubusercontent.com/88923986/159199088-61a866bb-8851-4bf1-ace7-3eaaf2535599.png)
+
+- After the activity schedule, it will ask you about the triggers
+
+![image](https://user-images.githubusercontent.com/88923986/159199175-3bfe6a8f-04de-49d6-af9c-3ade7f08fcf3.png)
+
+- The final excel sheet will look like this:
+
+![image](https://user-images.githubusercontent.com/88923986/159199214-3c4f32a3-743b-4e36-8cfa-a27f6f0335e2.png)
+
+![image](https://user-images.githubusercontent.com/88923986/159199244-3ea0c254-1e3a-4ead-82ed-1b6f7773e33f.png)
+
+
+
 
 
 
