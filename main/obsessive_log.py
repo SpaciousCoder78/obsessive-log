@@ -58,10 +58,10 @@ def createworkbook():
    for i in range(ques):
         cellone=int(input("""Enter the order number of activity:
             
-            """))
+          """))
         act=input("""Enter name of the activity:
             
-            """)
+          """)
         
         cellone=cellone+1
         cellzero=str(cellone)
@@ -71,14 +71,14 @@ def createworkbook():
 
         target=input("""Enter the target time:
             
-            """)
+          """)
         cell2="B"+cellzero
         worksheet.write(cell2,target)
         print("Target logged")
 
         action=input("""Enter the action:
             
-            """)
+          """)
         cell3="C"+cellzero
         worksheet.write(cell3,action)
         print("Action Logged")
@@ -98,19 +98,19 @@ def createworkbook():
    for i in range(notrig):
         tellone=int(input("""Enter order no of trigger:
         
-            """))
+          """))
         tellone=tellone+1
         tellzero=str(tellone)
         tell1="A"+tellzero
         trigger=input("""Enter the trigger:
         
-            """)
+          """)
         worksheet.write(tell1,trigger)
         print("Trigger logged")
 
         Thought=input("""Enter the thought:
         
-            """)
+          """)
         tell2="B"+ tellzero
         worksheet.write(tell2,Thought)
         print("Thoughts Logged")
@@ -138,9 +138,9 @@ def menu(ans):
         createworkbook()
     if ans==2:
         pass
-print("""---------------------------------------------------Obsession Log----------------------------------------------------------
+print("""---------------------------------------------------Obsessive Log----------------------------------------------------------
 
-        ----------------------------------------------------Version 1.0.2------------------------------------------------------------
+        ----------------------------------------------------Version 1.1------------------------------------------------------------
         
         ----------------------------------------------------Main Menu--------------------------------------------------------------
         
