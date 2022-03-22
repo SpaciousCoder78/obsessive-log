@@ -1,7 +1,7 @@
 # obsessive-log
 Designed to help you log the time spent on obsessive thoughts throughout the day. Helps with the treatment of OCD.
 
-This app will let you log your time spent on thoughts in an Excel sheet, which can be shown to your doctor during your next visit.
+This app will let you log your time spent on thoughts,triggers and activity schedules in an Excel sheet, which can be shown to your doctor during your next visit.
 
 # Pre-requisites
 
