@@ -17,7 +17,7 @@ How to install Xlsxwriter:
 ![image](https://user-images.githubusercontent.com/88923986/158050792-ca89e59a-ec67-4ae5-8cda-59a8e033e015.png)
 - Xlsxwriter will be installed and the software will work fine.
 
-# User's Manual
+# User Manual
 
 - Download the latest release from the github repository.
 
